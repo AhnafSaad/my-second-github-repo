@@ -1,26 +1,17 @@
-.mahim{
-    color: aliceblue;
-    background-color: black;
-    border: 10px dashed white;
-    border-radius: 5px;
-    padding: 10px 12px 14px 16px;
-    margin: 10px 20px 19px 16px;
-}
-#saad{
-    text-align: center;
-    text-shadow: 10px;
-    
+.akib{
+    border: 3px solid purple;
+    width: 400px;
+    margin: auto;
 
 }
-
-.pappu{
-    background-color: aqua;
-    
+.saad{
+    border: 3px solid black;
+    max-width: 400px;
+    margin: auto;
 }
-
-#payel{
-    color: white;
-    background-color: black;
-    border: 10px solid red;
-
+.akibian{
+    width: 400px;
+    height: 300px;
+    border: 5px solid black;
+    overflow: scroll;
 }
